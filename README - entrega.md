@@ -1,4 +1,4 @@
-# INFLUENCERS DE INSTAGRAM - QUE TAN DETERMINANTE LA CANTIDAD DE SEGUIDORES?
+# INFLUENCERS DE INSTAGRAM - QUE TAN DETERMINANTE ES LA CANTIDAD DE SEGUIDORES?
 
 ## RESUMEN
 Se realiza un analisis de los principales usuarios "influencers" de Instagram, tratando de entender
@@ -30,12 +30,12 @@ Se realizaron determinadas transformaciones para poder manipular los datos:
 En primer lugar vemos los Top 5 Influencers segun la cantidad de seguidores que tienen.
 
 |     | cuenta_instagram   | nombre_del_influencer   | categoria_principal   |   seguidores | pais_audiencia   |   engagement |   engagement_promedio |   porcentaje_engaged |  |
-----:|:-------------------|:------------------------|:----------------------|-------------:|:-----------------|-------------:|----------------------:|---------------------:|  |
- | instagram          | Instagram               | Photography           |    4.872e+08 | India            | 352300       |         467400        |             0.095936 |  |
-   | cristiano          | Cristiano Ronaldo       | Sports with a ball    |    4.196e+08 | India            |      5.7e+06 |              7e+06    |             1.66826  |  |
-  | kyliejenner        | Kylie 🤍                | Fashion               |    3.233e+08 | United States    |      7.6e+06 |              1.23e+07 |             3.80452  |  |
-    | leomessi           | Leo Messi               | Sports with a ball    |    3.154e+08 | Argentina        |      4e+06   |              5.3e+06  |             1.68041  |  |
-     | selenagomez        | Selena Gomez            | Music                 |    3.082e+08 | United States    |      3.3e+06 |              4.4e+06  |             1.42764  |
+|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| 1 | instagram   | Instagram     | Photography     |    4.872e+08 | India     | 352300       |         467400        |             0.095936 |  |
+| 2 | cristiano          | Cristiano Ronaldo       | Sports with a ball    |    4.196e+08 | India            |      5.7e+06 |              7e+06    |             1.66826  |  |
+| 3 | kyliejenner        | Kylie 🤍                | Fashion               |    3.233e+08 | United States    |      7.6e+06 |              1.23e+07 |             3.80452  |  |
+| 4 | leomessi           | Leo Messi               | Sports with a ball    |    3.154e+08 | Argentina        |      4e+06   |              5.3e+06  |             1.68041  |  |
+| 5 | selenagomez        | Selena Gomez            | Music                 |    3.082e+08 | United States    |      3.3e+06 |              4.4e+06  |             1.42764  |
 
 Como podemos observar dentro de los usuarios con mas seguidores, la mayor audiencia es en dos casos Estados Unidos, en dos India y una Argentina. 
 En cuanto a las categorias del contenido se repite dos veces deportes y despues figuran musica, fotografia y moda.
@@ -43,13 +43,11 @@ En cuanto a las categorias del contenido se repite dos veces deportes y despues 
 ## Resultados
  **Graficas de la cantidad de seguidores y engament por seguidor promedio segun el Pais de Audiencia**
 
-![]('grafica_paises.png')
+![](http://localhost:8888/doc/tree/Documents/GitHub/intro-al-analisis-de-datos/grafica_paises.png)
 
 **Graficas de la cantidad de seguidores y engament por seguidor promedio segun la Categoria de contenido**
 
-![]('grafica_categorias.png')
-
-
+![](http://localhost:8888/doc/tree/Documents/GitHub/intro-al-analisis-de-datos/grafica_categorias.png)
 
 En ambos casos, lo primero que se puede ver es la disociacion entre la cantidad de seguidores y el engagement. 
 Por que es esto importante? A la hora de elegir un influencer para pagar publicidad se suele optar por la opcion con mayor canitdad de seguidores. 
