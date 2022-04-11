@@ -29,8 +29,8 @@ Se realizaron determinadas transformaciones para poder manipular los datos:
 
 En primer lugar vemos los Top 5 Influencers segun la cantidad de seguidores que tienen.
 
-|     | cuenta_instagram   | nombre_del_influencer   | categoria_principal   |   seguidores | pais_audiencia   |   engagement |   engagement_promedio |   porcentaje_engaged |  |
-|---:|---:|---:|---:|---:|---:|---:|---:|---|
+|   | cuenta_instagram   | nombre_del_influencer   | categoria_principal   |   seguidores | pais_audiencia   |   engagement |   engagement_promedio |   porcentaje_engaged |  |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | 1 | instagram   | Instagram     | Photography     |    4.872e+08 | India     | 352300       |         467400        |             0.095936 |  |
 | 2 | cristiano          | Cristiano Ronaldo       | Sports with a ball    |    4.196e+08 | India            |      5.7e+06 |              7e+06    |             1.66826  |  |
 | 3 | kyliejenner        | Kylie 🤍                | Fashion               |    3.233e+08 | United States    |      7.6e+06 |              1.23e+07 |             3.80452  |  |
@@ -43,7 +43,7 @@ En cuanto a las categorias del contenido se repite dos veces deportes y despues 
 ## Resultados
  **Graficas de la cantidad de seguidores y engament por seguidor promedio segun el Pais de Audiencia**
 
-![](http://localhost:8888/doc/tree/Documents/GitHub/intro-al-analisis-de-datos/grafica_paises.png)
+![]('Documents/GitHub/intro-al-analisis-de-datos/grafica_paises.png')
 
 **Graficas de la cantidad de seguidores y engament por seguidor promedio segun la Categoria de contenido**
 
