@@ -6,6 +6,9 @@ la relacion que existe entre la cantidad de seguidores y el engagement alcanzado
 
 Que tan ifnluenciado esta por el pais de su audiencia y el rubro en el que se mueven?
 
+## CONTEXTO
+la red social Instagram, originalmente pensada para compartir fotos con tu red de conocidos, se ha vuelto una plataforma clave a la hora de realizar publicidad para las empresas. Esto tanto desde la publicidad pagas a traves de sus propias cuentas o pagando a "influencers" para que estos se muestren usando o recomendado productos, de forma tal que sus seguidores opten por su consumo.
+
 # DATOS
 
 Contamos con 997 observaciones unicas, las cuales se conforman de la siguiente manera:
@@ -19,6 +22,7 @@ Contamos con 997 observaciones unicas, las cuales se conforman de la siguiente m
 Se realizaron determinadas transformaciones para poder manipular los datos:
 * Los datos numericos estaban en formato de texto, con 'M' para indicar millones y 'k' para indicar miles. Ambos fueron removidos y el valor multiplicado por 1e3 o 1e6 segun correspondiera.
 * En los casos que solo se tenia en nombre de la cuenta de instagram y no el nombre del usuario, se uso el nombre de la misma como si fuera el nombre de pila del mismo.
+* Los datos Nan fueron convertidos en "no tiene".
 * Se opto por eliminar la columna de con informacion de una segunda categoria de contendio, por tener muy pocos datos y porque no aportaba mayor valor a nuestro analisis. 
 * Se renombro las columnas para tener nombres representativos de la informacion de la misma.
 * Se creo la columna calculada "Porcentaje Engaged" para ver la relacion entre los seguidores del usuario y el engagement de los mismos.
