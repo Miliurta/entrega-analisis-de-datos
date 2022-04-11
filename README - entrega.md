@@ -43,11 +43,12 @@ En cuanto a las categorias del contenido se repite dos veces deportes y despues 
 ## Resultados
  **Graficas de la cantidad de seguidores y engament por seguidor promedio segun el Pais de Audiencia**
 
-![]('GitHub/intro-al-analisis-de-datos/grafica_paises.png')
+<img width="846" alt="grafica_paises" src="https://user-images.githubusercontent.com/94876317/162660931-7335f9cf-10c8-4b3e-bc41-5d82d59abf76.png">
+
 
 **Graficas de la cantidad de seguidores y engament por seguidor promedio segun la Categoria de contenido**
 
-![](http://localhost:8888/doc/tree/Documents/GitHub/intro-al-analisis-de-datos/grafica_categorias.png)
+<img width="844" alt="grafica_categorias" src="https://user-images.githubusercontent.com/94876317/162660825-e8ea4caa-ad45-4697-88ba-64dc4d463330.png">
 
 En ambos casos, lo primero que se puede ver es la disociacion entre la cantidad de seguidores y el engagement. 
 Por que es esto importante? A la hora de elegir un influencer para pagar publicidad se suele optar por la opcion con mayor canitdad de seguidores. 
