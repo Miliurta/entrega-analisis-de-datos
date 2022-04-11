@@ -40,22 +40,37 @@ En primer lugar vemos los Top 5 Influencers segun la cantidad de seguidores que 
 Como podemos observar dentro de los usuarios con mas seguidores, la mayor audiencia es en dos casos Estados Unidos, en dos India y una Argentina. 
 En cuanto a las categorias del contenido se repite dos veces deportes y despues figuran musica, fotografia y moda.
 
-## Resultados
+## Graficos
+ **Graficas de la cantidad de seguidores y engament por seguidor promedio segun Top Influencers**
+ 
+![](http://localhost:8888/doc/tree/Documents/GitHub/intro-al-analisis-de-datos/graph%20top%205.png)
+
  **Graficas de la cantidad de seguidores y engament por seguidor promedio segun el Pais de Audiencia**
 
-<img width="846" alt="grafica_paises" src="https://user-images.githubusercontent.com/94876317/162660931-7335f9cf-10c8-4b3e-bc41-5d82d59abf76.png">
-
+![](http://localhost:8888/doc/tree/Documents/GitHub/intro-al-analisis-de-datos/grafica_paises.png)
 
 **Graficas de la cantidad de seguidores y engament por seguidor promedio segun la Categoria de contenido**
 
-<img width="844" alt="grafica_categorias" src="https://user-images.githubusercontent.com/94876317/162660825-e8ea4caa-ad45-4697-88ba-64dc4d463330.png">
+![](http://localhost:8888/doc/tree/Documents/GitHub/intro-al-analisis-de-datos/grafica_categorias.png)
 
 En ambos casos, lo primero que se puede ver es la disociacion entre la cantidad de seguidores y el engagement. 
 Por que es esto importante? A la hora de elegir un influencer para pagar publicidad se suele optar por la opcion con mayor canitdad de seguidores. 
 
-La categoria con mayor cantidad de seguidores promedio es fotografia mientras que la que tiene mayor engagement por 
-seguidor es Management & Marketing. 
+La duda que surge ahora, es que al mirar nuestro histograma con la distribucion de cantidad de seguidores por usuario, tenemos que los "Top" influencers son outliers. Optamos inicialmente por no eliminarlos de nuestro modelo por el hecho de que se trata de ifnleuncers importantes y por ende reelevantes.
 
-Por lo que, considerando que los influencers suelen cobrar mas en los casos que tienen mas seguidores, seguramente segun se obtenga un mejor resultado en la inversion de quien busque una cuenta con contenido del segundo tipo.
-
+![](http://localhost:8888/doc/tree/Documents/GitHub/intro-al-analisis-de-datos/histograma.png)
  
+Pero ahora realizaremos los mismos pasos que antes eliminando a estos outliers (> μ + 3std) para evaluar si se da la misma dinamica.
+
+ **Graficas de la cantidad de seguidores y engament por seguidor promedio segun Top Influencers - Sin Outliers**
+ 
+![](http://localhost:8888/doc/tree/Documents/GitHub/intro-al-analisis-de-datos/top%20sin%20outliers.png)
+
+ **Graficas de la cantidad de seguidores y engament por seguidor promedio segun el Pais de Audiencia - Sin Outliers**
+
+![](http://localhost:8888/doc/tree/Documents/GitHub/intro-al-analisis-de-datos/paises%20sin%20outliers.png)
+
+**Graficas de la cantidad de seguidores y engament por seguidor promedio segun la Categoria de contenido - Sin Outliers**
+
+![](http://localhost:8888/doc/tree/Documents/GitHub/intro-al-analisis-de-datos/categorias%20sin%20outliers.png)
+
