@@ -82,7 +82,7 @@ Pero ahora realizaremos los mismos pasos que antes eliminando a estos outliers (
 
 ## Conclusiones
 
-Podemos concluir que una cantidad de followers mayor, en la generalidad va a traer asociado un engagemnet pormedio por usuario menor que una base de seguidores mas chica.
+Podemos concluir que una cantidad de followers mayor, en la generalidad va a traer asociado un engagemnet pormedio por usuario menor que una base de seguidores mas chica. Esto se daria independientemente de la cateogoria de interes o el pais en el que se "maneja" el ifnluencer.
 
 Contemplando que los influencers suele cobrar mas por publicidad si tienen mas seguidores, estos datos son clave a la hora de tomar decisiones de inversion en marketing. 
 Un influencer con base de seguidores mas chica puede llegar a una audiencia mas receptiva, haciendo la campaña, si bien menos masiva, mejor enfocada y mas barata.
