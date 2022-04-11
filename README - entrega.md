@@ -20,6 +20,7 @@ Se realizaron determinadas transformaciones para poder manipular los datos:
 * Los datos numericos estaban en formato de texto, con 'M' para indicar millones y 'k' para indicar miles. Ambos fueron removidos y el valor multiplicado por 1e3 o 1e6 segun correspondiera.
 * En los casos que solo se tenia en nombre de la cuenta de instagram y no el nombre del usuario, se uso el nombre de la misma como si fuera el nombre de pila del mismo.
 * Se opto por eliminar la columna de con informacion de una segunda categoria de contendio, por tener muy pocos datos y porque no aportaba mayor valor a nuestro analisis. 
+* Se renombro las columnas para tener nombres representativos de la informacion de la misma.
 * Se creo la columna calculada "Porcentaje Engaged" para ver la relacion entre los seguidores del usuario y el engagement de los mismos.
 * Se agruparon los datos segun distintas variables para evaluar el comportamiento de las mismas.
 
