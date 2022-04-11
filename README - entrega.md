@@ -43,7 +43,7 @@ En cuanto a las categorias del contenido se repite dos veces deportes y despues 
 ## Resultados
  **Graficas de la cantidad de seguidores y engament por seguidor promedio segun el Pais de Audiencia**
 
-![]('Documents/GitHub/intro-al-analisis-de-datos/grafica_paises.png')
+![]('GitHub/intro-al-analisis-de-datos/grafica_paises.png')
 
 **Graficas de la cantidad de seguidores y engament por seguidor promedio segun la Categoria de contenido**
 
