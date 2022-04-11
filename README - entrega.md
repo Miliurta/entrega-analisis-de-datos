@@ -75,7 +75,12 @@ Pero ahora realizaremos los mismos pasos que antes eliminando a estos outliers (
 <img width="849" alt="categorias sin outliers" src="https://user-images.githubusercontent.com/94876317/162741709-09e0e705-37e3-40a2-9ce7-06fb8592abe2.png">
 
 
+## Conclusiones
 
+Podemos concluir que una cantidad de followers mayor, en la generalidad va a traer asociado un engagemnet pormedio por usuario menor que una base de seguidores mas chica.
+
+Contemplando que los influencers suele cobrar mas por publicidad si tienen mas seguidores, estos datos son clave a la hora de tomar decisiones de inversion en marketing. 
+Un influencer con base de seguidores mas chica puede llegar a una audiencia mas receptiva, haciendo la campaña, si bien menos masiva, mejor enfocada y mas barata.
 
 
 
